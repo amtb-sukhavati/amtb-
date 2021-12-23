@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+## 南無阿彌陀佛
 
-You can use the [editor on GitHub](https://github.com/amtb-sukhavati/amtb-sukhavati.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### 海賢老和尚生平修行事蹟
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[海賢老和尚生平修行事蹟](https://edu.hwadzan.com/play/65/34/0/305006)
 
-### Markdown
+### 學習海賢老和尚之表法
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[學習海賢老和尚之表法](https://edu.hwadzan.com/play/21/723/0/228684)
 
-```markdown
-Syntax highlighted code block
+### 阿彌陀佛極樂世界動畫
 
-# Header 1
-## Header 2
-### Header 3
+[佛說阿彌陀經](https://youtu.be/feskU-DlJmc)
 
-- Bulleted
-- List
+[大勢至菩薩念佛圓通章](https://youtu.be/vQdhcPQcSDI)
 
-1. Numbered
-2. List
+[大方廣佛華嚴經普賢行願品](https://youtu.be/q4RTU32fk7M)
 
-**Bold** and _Italic_ and `Code` text
+### 因果教育 挽救人心
 
-[Link](url) and ![Image](src)
-```
+[因果教育挽救人心](https://edu.hwadzan.com/play/32/137/0/230401)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### 發菩提心 一向專念
 
-### Jekyll Themes
+真誠 清淨 平等 正覺 慈悲
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/amtb-sukhavati/amtb-sukhavati.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+看破 放下 自在 隨緣 念佛
