@@ -16,7 +16,11 @@
 
 [大方廣佛華嚴經普賢行願品](https://youtu.be/q4RTU32fk7M)
 
-### 因果教育 挽救人心
+### 素食的利益
+
+[素食的利益](https://youtu.be/g9o9jd2_JQQ)
+
+### 因果教育
 
 [因果教育挽救人心](https://edu.hwadzan.com/play/32/137/0/230401)
 
