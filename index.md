@@ -20,15 +20,15 @@
 
 [大方廣佛華嚴經普賢行願品](https://youtu.be/q4RTU32fk7M)
 
-### 因果教育 挽救人心
-
-[因果教育挽救人心](https://edu.hwadzan.com/play/32/137/0/230401)
-
 ### 臨終助念 答疑解難
 
 [臨終助念](https://github.com/amtb-sukhavati/amtb-sukhavati.github.io/blob/main/%E8%87%A8%E7%B5%82%E5%8A%A9%E5%BF%B5%E7%AD%94%E5%95%8F.pdf)
 
 [答疑解難](https://edu.hwadzan.tv/play/56/149/0/296351)
+
+### 因果教育 挽救人心
+
+[因果教育挽救人心](https://edu.hwadzan.com/play/32/137/0/230401)
 
 ### 素食的利益
 [素食的利益](https://youtu.be/g9o9jd2_JQQ)
