@@ -16,6 +16,12 @@
 
 [大方廣佛華嚴經普賢行願品](https://youtu.be/q4RTU32fk7M)
 
+### 臨終助念 答疑解難
+
+[臨終助念](https://github.com/amtb-sukhavati/amtb-sukhavati.github.io/blob/main/%E8%87%A8%E7%B5%82%E5%8A%A9%E5%BF%B5%E7%AD%94%E5%95%8F.pdf)
+
+[答疑解難](https://edu.hwadzan.tv/play/56/149/0/296351)
+
 ### 發菩提心 一向專念
 
 真誠 清淨 平等 正覺 慈悲
