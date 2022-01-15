@@ -1,5 +1,9 @@
 ## 南無阿彌陀佛
 
+### 發菩提心 一向專念 阿彌陀佛
+
+真誠 清淨 平等 正覺 慈悲 看破 放下 自在 隨緣 念佛
+
 ### 海賢老和尚生平修行事蹟
 
 [海賢老和尚生平修行事蹟](https://edu.hwadzan.com/play/65/34/0/305006)
@@ -25,12 +29,6 @@
 [臨終助念](https://github.com/amtb-sukhavati/amtb-sukhavati.github.io/blob/main/%E8%87%A8%E7%B5%82%E5%8A%A9%E5%BF%B5%E7%AD%94%E5%95%8F.pdf)
 
 [答疑解難](https://edu.hwadzan.tv/play/56/149/0/296351)
-
-### 發菩提心 一向專念
-
-真誠 清淨 平等 正覺 慈悲
-
-看破 放下 自在 隨緣 念佛
 
 ### 素食的利益
 [素食的利益](https://youtu.be/g9o9jd2_JQQ)
