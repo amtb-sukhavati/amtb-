@@ -12,6 +12,18 @@
 
 [學習海賢老和尚之表法](https://edu.hwadzan.com/play/21/723/0/228684)
 
+### 淨空老法師專集網
+
+[淨空老法師專集網](https://www.amtb.tw/#/home)
+
+### 華藏淨宗弘化網
+
+[華藏淨宗弘化網](https://www.hwadzan.com/)
+
+### 儒釋道文化教育
+
+[儒釋道文化教育](https://rsd.amtb.tw/)
+
 ### 阿彌陀佛極樂世界動畫
 
 [佛說阿彌陀經](https://youtu.be/feskU-DlJmc)
@@ -20,15 +32,18 @@
 
 [大方廣佛華嚴經普賢行願品](https://youtu.be/q4RTU32fk7M)
 
-### 臨終助念 答疑解難
+### 素食的利益
 
-[臨終助念](https://github.com/amtb-sukhavati/amtb-sukhavati.github.io/blob/main/%E8%87%A8%E7%B5%82%E5%8A%A9%E5%BF%B5%E7%AD%94%E5%95%8F.pdf)
+[素食的利益](https://youtu.be/g9o9jd2_JQQ)
 
-[答疑解難](https://edu.hwadzan.tv/play/56/149/0/296351)
-
-### 因果教育 挽救人心
+### 因果
 
 [因果教育挽救人心](https://edu.hwadzan.com/play/32/137/0/230401)
 
-### 素食的利益
-[素食的利益](https://youtu.be/g9o9jd2_JQQ)
+[懺悔專欄](https://rsd.amtb.tw/repentance)
+
+### 臨終
+
+[臨終助念答問](https://github.com/amtb-sukhavati/amtb-sukhavati.github.io/blob/main/%E8%87%A8%E7%B5%82%E5%8A%A9%E5%BF%B5%E7%AD%94%E5%95%8F.pdf)
+
+[答疑解難](https://edu.hwadzan.tv/play/56/149/0/296351)
